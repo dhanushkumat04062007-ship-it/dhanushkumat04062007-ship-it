@@ -1,4 +1,4 @@
-# Hi, I'm Dhanush 👋
+# Hi, I'm Dhanush Kumar👋
 
 Full-stack developer building web apps for education: student portals, admission tools and campus utilities. I run **DS Tech Developers**, serve as Vice President of the **SAP Tech Club**, and am the PR Domain Head of the **CINTEL Student Association**.
 
